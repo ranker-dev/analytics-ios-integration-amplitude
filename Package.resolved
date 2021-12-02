@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Amplitude",
+        "repositoryURL": "https://github.com/amplitude/Amplitude-iOS",
+        "state": {
+          "branch": null,
+          "revision": "b3411935d96c3b154753771ab32e1df501fec478",
+          "version": "8.5.0"
+        }
+      },
+      {
+        "package": "Segment",
+        "repositoryURL": "https://github.com/segmentio/analytics-ios",
+        "state": {
+          "branch": null,
+          "revision": "fc64997865619f73bbab196c164f7845a13da110",
+          "version": "4.1.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
